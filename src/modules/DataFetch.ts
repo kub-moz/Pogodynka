@@ -1,6 +1,6 @@
 import { Forecast, WeatherRequest, geoDirect } from "./interfaces";
 
-const ApiKey = "234e9a5ab523475bc07ee7630e04375b"
+const ApiKey = "ab3ce49fefd88f7d1913f3272bb48a09"
 const CoordsCache: {[city: string]: {lat: number, lon: number}} = {}
 
 async function AskApi(url: string, args: {[index: string]: Number | string}) {
