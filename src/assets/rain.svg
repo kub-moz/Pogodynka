@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="177.32831"
+   height="173.12878"
+   viewBox="0 0 21.173529 20.672094"
+   id="rain-alt"
+   data-name="Flat Color"
+   class="icon flat-color"
+   stroke="#000000"
+   stroke-width="0.696"
+   version="1.1"
+   sodipodi:docname="rain-alt-svgrepo-com.svg"
+   inkscape:export-filename="../Documents/Vue/pogodynka/src/assets/Rain.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="SVGRepo_tracerCarrier"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke="#cccccc"
+     stroke-width="1.344"
+     style="display:inline"
+     transform="translate(-1.4984679,-1.3279734)">
+    <path
+       id="primary"
+       d="M 17,4 A 4.36,4.36 0 0 0 16.49,4 6,6 0 0 0 12,2 6,6 0 0 0 6.35,6 4.0038263,4.0038263 0 1 0 6,14 H 17 A 5,5 0 0 0 17,4 Z"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     id="SVGRepo_iconCarrier"
+     transform="translate(-1.4984679,-1.3279734)">
+    <path
+       id="path1"
+       d="m 16,22 a 0.93,0.93 0 0 1 -0.45,-0.11 1,1 0 0 1 -0.44,-1.34 l 2,-4 a 1,1 0 1 1 1.78,0.9 l -2,4 A 1,1 0 0 1 16,22 Z M 8,22 A 0.93,0.93 0 0 1 7.55,21.89 1,1 0 0 1 7.11,20.55 l 2,-4 a 1,1 0 1 1 1.78,0.9 l -2,4 A 1,1 0 0 1 8,22 Z m 5,-2 a 0.93,0.93 0 0 1 -0.45,-0.11 1,1 0 0 1 -0.44,-1.34 l 1,-2 a 1,1 0 1 1 1.78,0.9 l -1,2 A 1,1 0 0 1 13,20 Z M 5,20 A 0.93,0.93 0 0 1 4.55,19.89 1,1 0 0 1 4.11,18.55 l 1,-2 a 1,1 0 0 1 1.78,0.9 l -1,2 A 1,1 0 0 1 5,20 Z"
+       style="display:inline;fill:#009dff;stroke:none;stroke-opacity:1" />
+    <path
+       id="path2"
+       d="M 17,4 A 4.36,4.36 0 0 0 16.49,4 6,6 0 0 0 12,2 6,6 0 0 0 6.35,6 4.0038263,4.0038263 0 1 0 6,14 H 17 A 5,5 0 0 0 17,4 Z"
+       style="fill:#ffffff" />
+  </g>
+</svg>

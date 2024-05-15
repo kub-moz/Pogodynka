@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   width="756"
+   height="756"
+   viewBox="0 0 18.9 18.9"
+   fill="#000000"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="sunset.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="-22"
+       originy="-22"
+       spacingx="0.025"
+       spacingy="0.025"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <g
+     id="SVGRepo_iconCarrier"
+     transform="translate(-0.55000001,-0.55000001)">
+    <g
+       id="sunset-4"
+       transform="translate(-2,-2)"
+       style="stroke:#ffffff;stroke-opacity:1">
+      <path
+         id="secondary"
+         fill="#ffbb00"
+         d="M 18,17 H 6 a 6,6 0 0 1 12,0 z"
+         style="stroke:#ffffff;stroke-opacity:1" />
+      <path
+         id="primary"
+         d="M 18,17 H 6 a 6,6 0 0 1 12,0 z M 3,17 H 21 M 6,21 H 18 M 12,7 V 3"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.9"
+         style="stroke:#ffffff;stroke-opacity:1" />
+      <path
+         id="primary-2"
+         data-name="primary"
+         d="M 14,5 12,3 10,5"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.9"
+         style="stroke:#ffffff;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
